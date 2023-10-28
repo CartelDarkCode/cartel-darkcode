@@ -1,0 +1,14 @@
+{
+    "name": "cartel-darkcode",
+    "version": "1.0.0",
+    "description": "Descrição da sua biblioteca",
+    "main": "cartel-darkcode.min.js",
+    "repository": {
+        "type": "git",
+        "url": "URL do seu repositório no GitHub"
+    },
+    "authors": [
+        "O Mano",
+        "Cartel DarkCode"
+    ]
+}
